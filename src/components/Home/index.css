@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.home-cont {
+  background-color: #000000;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.home-contwh {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.home-image {
+  height: 200px;
+  width: 200px;
+}

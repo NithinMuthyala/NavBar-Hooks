@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.bgblack {
+  background-color: #000000;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+}
+.notfound-image {
+  height: 300px;
+  width: 200px;
+}
+
+.bgno {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

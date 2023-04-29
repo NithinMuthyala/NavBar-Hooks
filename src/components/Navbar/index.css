@@ -1,0 +1,39 @@
+/* Write your CSS here */
+
+.dark-bg {
+  background-color: #333333;
+}
+.light-bg {
+  background-color: #ffffff;
+  box-shadow: 0px 4px 16px 0px;
+}
+.nav-cont {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.logo {
+  height: 70px;
+  width: 70px;
+  padding: 10px;
+}
+.theme {
+  height: 70px;
+  width: 70px;
+  padding: 10px;
+}
+.links-container {
+  display: flex;
+  width: 200px;
+  justify-content: space-between;
+}
+.list-item {
+  color: #1e293b;
+  list-style-type: none;
+  font-size: 20px;
+  font-weight: 500;
+}
+.them-btn {
+  background-color: transparent;
+  border: none;
+}
